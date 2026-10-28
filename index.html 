@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Ann Igwemmar — Customer Support Specialist, Virtual Assistant and Administrative Support professional.">
+<title>Ann Igwemmar | Customer Support & Administrative Support</title>
+<style>
+:root{--ink:#17233b;--muted:#596579;--accent:#6b5ce7;--accent2:#e9e7ff;--paper:#fbfbfe;--line:#e7e9f1;--white:#fff}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--paper);color:var(--ink);font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;line-height:1.65}
+a{color:inherit}.wrap{width:min(1080px,92%);margin:auto}.nav{display:flex;justify-content:space-between;align-items:center;padding:22px 0;gap:18px}.brand{font-weight:800;letter-spacing:-.04em;font-size:1.12rem}.navlinks{display:flex;gap:22px;flex-wrap:wrap}.navlinks a{text-decoration:none;color:var(--muted);font-size:.92rem}.navlinks a:hover,.textlink:hover{color:var(--accent)}
+.hero{padding:78px 0 68px;display:grid;grid-template-columns:1.45fr .8fr;gap:48px;align-items:center}.eyebrow{color:var(--accent);font-size:.78rem;letter-spacing:.15em;font-weight:800;text-transform:uppercase}.hero h1{font-size:clamp(2.6rem,6vw,4.7rem);line-height:1.04;letter-spacing:-.065em;margin:14px 0 20px}.hero p{font-size:1.12rem;color:var(--muted);max-width:660px}.actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:28px}.btn{display:inline-block;padding:12px 18px;border-radius:12px;text-decoration:none;font-weight:700;border:1px solid var(--line)}.primary{background:var(--accent);color:#fff;border-color:var(--accent)}.secondary{background:#fff}.profile-card{background:linear-gradient(145deg,#f0efff,#fff 70%);border:1px solid #e3e0ff;border-radius:26px;padding:30px;box-shadow:0 18px 55px #2c28600d}.monogram{width:88px;height:88px;display:grid;place-items:center;background:var(--accent);color:#fff;border-radius:24px;font-size:1.8rem;font-weight:800;margin-bottom:22px}.profile-card h2{margin:0 0 6px;font-size:1.35rem}.profile-card p{font-size:.96rem;margin:0;color:var(--muted)}.pillrow{display:flex;gap:8px;flex-wrap:wrap;margin-top:20px}.pill{font-size:.78rem;background:#fff;border:1px solid var(--line);padding:6px 10px;border-radius:999px;color:var(--muted)}
+section{padding:60px 0}.sectionhead{margin-bottom:28px}.sectionhead h2{font-size:clamp(1.8rem,3vw,2.5rem);letter-spacing:-.045em;margin:5px 0 8px}.sectionhead p{color:var(--muted);max-width:680px;margin:0}.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}.card{background:var(--white);border:1px solid var(--line);border-radius:18px;padding:23px}.card .symbol{width:42px;height:42px;border-radius:12px;background:var(--accent2);color:var(--accent);display:grid;place-items:center;font-weight:800;margin-bottom:15px}.card h3{margin:0 0 8px;font-size:1.08rem}.card p,.card li{color:var(--muted);font-size:.94rem}.card ul{padding-left:18px;margin:10px 0 0}.split{display:grid;grid-template-columns:1fr 1fr;gap:30px;align-items:start}.soft{background:#f1f0ff;border-radius:24px;padding:30px}.soft h3{margin-top:0}.skilllist{display:flex;flex-wrap:wrap;gap:9px}.skill{padding:9px 12px;border:1px solid var(--line);background:#fff;border-radius:10px;font-size:.9rem}.timeline{border-left:2px solid #dedbff;padding-left:24px;margin-left:8px}.role{position:relative;margin:0 0 28px}.role:before{content:"";position:absolute;width:10px;height:10px;background:var(--accent);border:4px solid var(--accent2);border-radius:50%;left:-32px;top:7px}.role h3{margin:0;font-size:1.08rem}.role .meta{color:var(--accent);font-size:.86rem;font-weight:700}.role p{color:var(--muted);margin:8px 0}.project{background:#fff;border:1px solid var(--line);border-radius:18px;padding:24px}.project h3{margin:0 0 8px}.project p{color:var(--muted);margin:0}.contact{background:var(--ink);color:#fff;border-radius:26px;padding:42px;display:grid;grid-template-columns:1.2fr 1fr;gap:24px;align-items:center}.contact p{color:#d6dced}.contact .btn{border-color:#4c5872}.contact .primary{background:#8b80ff;border-color:#8b80ff}.contactlinks{display:grid;gap:12px}.contactlinks a{color:#fff;text-decoration:none;overflow-wrap:anywhere}.contactlinks a:hover{text-decoration:underline}.footer{padding:28px 0;color:var(--muted);font-size:.85rem;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}.note{font-size:.82rem;color:var(--muted)}
+@media(max-width:760px){.hero{grid-template-columns:1fr;padding:48px 0}.profile-card{max-width:500px}.grid{grid-template-columns:1fr}.split,.contact{grid-template-columns:1fr}.nav{align-items:flex-start;flex-direction:column}.navlinks{gap:14px}section{padding:44px 0}.contact{padding:28px}}
+</style>
+</head>
+<body>
+<header class="wrap nav">
+  <a class="brand" href="#home" style="text-decoration:none">AI<span style="color:var(--accent)">.</span> Ann Igwemmar</a>
+  <nav class="navlinks" aria-label="Main navigation">
+    <a href="#about">About</a><a href="#services">What I Do</a><a href="#experience">Experience</a><a href="#skills">Skills</a><a href="#contact">Contact</a>
+  </nav>
+</header>
+<main>
+<section class="wrap hero" id="home">
+  <div>
+    <div class="eyebrow">Customer Support · Virtual Assistance · Administration</div>
+    <h1>Helping people feel heard and businesses run smoothly.</h1>
+    <p>I’m Ann Igwemmar, a customer-focused professional with experience in customer support, school administration, student advising, and remote team support. I enjoy solving problems, staying organized, and creating positive experiences through clear and thoughtful communication.</p>
+    <div class="actions">
+      <a class="btn primary" href="#contact">Let’s work together</a>
+      <a class="btn secondary" href="#experience">Explore my experience</a>
+    </div>
+  </div>
+  <aside class="profile-card">
+    <div class="monogram">AI</div>
+    <h2>Ann Igwemmar</h2>
+    <p>Customer Support Specialist & Administrative Support Professional</p>
+    <div class="pillrow"><span class="pill">Empathetic</span><span class="pill">Organized</span><span class="pill">Solution-focused</span><span class="pill">Remote-ready</span></div>
+  </aside>
+</section>
+
+<section id="about" style="background:#fff;border-top:1px solid var(--line);border-bottom:1px solid var(--line)">
+  <div class="wrap split">
+    <div class="sectionhead">
+      <div class="eyebrow">A little about me</div><h2>People-first support, with a practical mindset.</h2>
+      <p>I bring patience, empathy, attention to detail, and a calm approach to busy situations. Whether I’m helping a customer, supporting a student, or keeping daily tasks organized, I aim to make every interaction clear, respectful, and useful.</p>
+    </div>
+    <div class="soft">
+      <h3>What you can expect from me</h3>
+      <ul>
+        <li>Friendly, professional communication</li>
+        <li>Reliable follow-through and clear updates</li>
+        <li>Careful handling of information and customer concerns</li>
+        <li>A willingness to learn, take initiative, and support team goals</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section id="services" class="wrap">
+  <div class="sectionhead"><div class="eyebrow">How I can help</div><h2>Support that makes work easier.</h2><p>I can help teams deliver a better customer experience while keeping everyday operations organized.</p></div>
+  <div class="grid">
+    <article class="card"><div class="symbol">01</div><h3>Customer Support</h3><p>Responding to questions, resolving issues, following up, and making sure customers feel listened to and supported.</p><ul><li>Email and chat support</li><li>Issue resolution and escalation</li><li>Customer follow-ups</li></ul></article>
+    <article class="card"><div class="symbol">02</div><h3>Virtual Assistance</h3><p>Helping with the day-to-day tasks that keep a remote business moving and its communication organized.</p><ul><li>Inbox and task organization</li><li>Scheduling and coordination</li><li>Documentation and updates</li></ul></article>
+    <article class="card"><div class="symbol">03</div><h3>Administrative Support</h3><p>Supporting staff, students, and daily school operations with a professional and people-focused approach.</p><ul><li>Administrative coordination</li><li>Student guidance and support</li><li>Team communication</li></ul></article>
+  </div>
+</section>
+
+<section id="experience" style="background:#fff;border-top:1px solid var(--line);border-bottom:1px solid var(--line)">
+  <div class="wrap split">
+    <div class="sectionhead"><div class="eyebrow">Experience</div><h2>Bringing care and consistency to every role.</h2><p>My background combines customer communication with administration and support. I adapt quickly, work well with people, and take ownership of the tasks assigned to me.</p></div>
+    <div class="timeline">
+      <div class="role"><h3>Customer Support Specialist</h3><div class="meta">Customer experience and issue resolution</div><p>Help customers get clear answers, manage concerns professionally, follow up when needed, and maintain a helpful tone across conversations.</p></div>
+      <div class="role"><h3>Executive Assistant / School Administration</h3><div class="meta">Administrative coordination and team support</div><p>Supported school operations, helped coordinate teaching and non-teaching staff, and stepped into additional leadership responsibilities when needed.</p></div>
+      <div class="role"><h3>Student Advisor</h3><div class="meta">Guidance and communication</div><p>Helped students understand information, addressed questions with patience, and supported a positive and organized student experience.</p></div>
+      <div class="role"><h3>Remote Chat and Client Engagement</h3><div class="meta">Online communication and relationship building</div><p>Managed multiple conversations, maintained engaging and professional communication, followed up with clients, and worked toward team goals in a fast-paced online environment.</p></div>
+    </div>
+  </div>
+  <div class="wrap"><p class="note">Role descriptions are written as a portfolio summary. Add employer names, exact dates, and measurable results where you are comfortable sharing them.</p></div>
+</section>
+
+<section id="skills" class="wrap">
+  <div class="sectionhead"><div class="eyebrow">Skills & tools</div><h2>My strengths at a glance.</h2><p>I combine people skills with organization and the ability to learn new systems quickly.</p></div>
+  <div class="split">
+    <div class="card"><h3>Core skills</h3><div class="skilllist"><span class="skill">Customer communication</span><span class="skill">Problem-solving</span><span class="skill">Empathy</span><span class="skill">Conflict resolution</span><span class="skill">Attention to detail</span><span class="skill">Time management</span><span class="skill">Team collaboration</span><span class="skill">Confidentiality</span><span class="skill">Follow-up</span><span class="skill">Organization</span></div></div>
+    <div class="card"><h3>Tools and platforms</h3><p>Google Sheets · Calendly · Slack · Clockify · Infloww · OnlyMonster · CreatorHero · SuperCreator</p><p class="note">Tool familiarity varies by task. I’m comfortable learning new platforms and following team processes.</p></div>
+  </div>
+</section>
+
+<section style="padding-top:10px">
+  <div class="wrap">
+    <div class="sectionhead"><div class="eyebrow">Work approach</div><h2>Reliable support, from first message to follow-up.</h2></div>
+    <div class="grid">
+      <div class="project"><h3>Listen and understand</h3><p>I take time to understand the concern before deciding on the next step.</p></div>
+      <div class="project"><h3>Communicate clearly</h3><p>I keep messages respectful, easy to understand, and suited to the person I’m helping.</p></div>
+      <div class="project"><h3>Close the loop</h3><p>I track pending items, follow up, and share handover notes so important details are not missed.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="contact" class="wrap">
+  <div class="contact">
+    <div><div class="eyebrow" style="color:#bdb6ff">Contact</div><h2 style="font-size:2.3rem;line-height:1.1;letter-spacing:-.05em;margin:10px 0">Let’s make great work happen.</h2><p>I’m open to remote opportunities in customer support, virtual assistance, and administrative support. If you’re looking for someone who is thoughtful, organized, and ready to contribute, I’d love to connect.</p><a class="btn primary" href="mailto:annigwemmar@gmail.com">Email me</a></div>
+    <div class="contactlinks">
+      <div><span class="note" style="color:#b7c0d3">EMAIL</span><br><a href="mailto:annigwemmar@gmail.com">annigwemmar@gmail.com</a></div>
+      <div><span class="note" style="color:#b7c0d3">LINKEDIN</span><br><a href="https://www.linkedin.com/in/igweannijeoma" target="_blank" rel="noopener noreferrer">linkedin.com/in/igweannijeoma</a></div>
+      <div><span class="note" style="color:#b7c0d3">LOCATION</span><br><span>Nigeria · Open to remote work</span></div>
+    </div>
+  </div>
+</section>
+</main>
+<footer class="wrap footer"><span>© <span id="year">2026</span> Ann Igwemmar</span><span>Customer-focused. Organized. Ready to help.</span></footer>
+</body>
+</html>
